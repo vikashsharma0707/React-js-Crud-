@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "95da",
+      "rollno": "12221",
+      "name": "vikash",
+      "city": "beohari",
+      "fees": "1000"
+    },
+    {
+      "id": "553a",
+      "rollno": "beohari",
+      "name": "vikash sharma",
+      "city": "beohari",
+      "fees": "54534342"
+    }
+  ]
+}
